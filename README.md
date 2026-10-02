@@ -18,7 +18,7 @@ Setup (2 minutes): install Python 3.8+ (no third-party packages), export your CS
 Note: the summary uses simplified average-cost math as a bookkeeping aid — not tax advice. Your accountant makes the filing decisions; StableLedger gives them clean data.
 
 **Buy** — $49 one-time. Yours forever. No subscriptions, no lock-in.
-[Get StableLedger](https://buy.polar.sh/polar_cl_e6vViqYQrBgBFDjJcMoL2vQV0tbQvQWMi4nzb3OKqyx)
+[Get StableLedger](https://payloadtools.gumroad.com/l/stableledger-tax-csv)
 
 **License** — Single-seat commercial license, perpetual. Full text ships inside the package (LICENSE.txt). Not open source.
 
