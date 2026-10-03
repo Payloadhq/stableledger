@@ -1,5 +1,7 @@
 # StableLedger
-*Stablecoin tax CSV normalizer for freelancers and small business. A commercial product by Payload.*
+*Stablecoin tax CSV normalizer for freelancers and small business. A commercial product by Payload (v1.0.0).*
+> **Payload** — small, sharp tools for developers. Developer portal: https://payloadhq.github.io/
+
 
 Paid in USDC or USDT? Come tax season you face a choice: free developer CLI tools, $49–199/yr trader software that doesn't understand invoicing, or $299+/month enterprise accounting suites.
 
@@ -25,3 +27,10 @@ Note: the summary uses simplified average-cost math as a bookkeeping aid — not
 **Support** — kylers.partners@gmail.com
 
 Sold by Payload. Small software that earns its keep.
+
+---
+
+**Payload** — small, sharp tools for developers.
+Developer portal: https://payloadhq.github.io/ ·
+All products: https://payloadtools.gumroad.com/ ·
+Contact: kylers.partners@gmail.com
