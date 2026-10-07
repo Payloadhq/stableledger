@@ -1,3 +1,4 @@
+<p align="center"><img src="docs/logo.png" alt="stableledger logo" width="200"></p>
 # StableLedger
 
 *Turn your stablecoin exchange CSV exports into an accountant-ready ledger. A commercial product by Payload.*
