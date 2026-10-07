@@ -9,6 +9,12 @@ Paid in USDC or USDT? Come tax season you face a choice: free developer CLI tool
 
 StableLedger is the fourth option: a one-time $49 utility that turns your exchange CSV exports into a clean, accountant-ready ledger. Runs offline — your financial exports never leave your machine.
 
+**Why it exists:** crypto-native freelancers and small businesses need clean records for their accountant without cloud accounting software or per-record fees. One command normalizes Coinbase, Binance, Kraken, or generic CSVs into a universal ledger; you hand `ledger.csv` and `summary.csv` to your accountant.
+
+**Try it on sample data first:** the package ships with sample exports so you can run the full flow before trusting it with real data.
+
+**Buy: [$49 one-time on Gumroad](https://payloadtools.gumroad.com/l/stableledger-tax-csv)**. Yours forever, no subscriptions, no lock-in.
+
 ## Who it's for
 
 Freelancers and small businesses paid in USDC or USDT who need clean records for their accountant at tax time — without cloud accounting software or per-record fees.
