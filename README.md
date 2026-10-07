@@ -47,7 +47,7 @@ Setup (2 minutes): install Python 3.8+ (no third-party packages), export your CS
 
 ---
 
-**Payload** — small, sharp tools for developers.
+**Payload** — Developer infrastructure for x402, agent payments, and programmable revenue..
 Developer portal: https://payloadhq.github.io/ ·
 All products: https://payloadtools.gumroad.com/ ·
 Contact: kylers.partners@gmail.com
