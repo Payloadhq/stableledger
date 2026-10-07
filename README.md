@@ -23,7 +23,7 @@ The paid package ($49, one-time) includes:
 - **Loud failure on unknown formats** instead of silently mis-parsing
 - **Sample exports** so you can try it before trusting it with real data
 
-Setup (2 minutes): install Python 3.8+ (no third-party packages), export your CSV, run `python -m stableledger your_export.csv`, open ledger.csv and summary.csv.
+Setup (2 minutes): install Python 3.8+ (no third-party packages), export your CSV, run `python -m stableledger.cli --input your_export.csv --format coinbase --outdir ./out`, then open `./out/ledger.csv` and `./out/summary.csv`. Use `binance`, `kraken`, or `generic` for `--format` to match your export.
 
 ## What it does NOT include
 
