@@ -1,32 +1,48 @@
 # StableLedger
-*Stablecoin tax CSV normalizer for freelancers and small business. A commercial product by Payload (v1.0.0).*
-> **Payload** — small, sharp tools for developers. Developer portal: https://payloadhq.github.io/
 
+*Turn your stablecoin exchange CSV exports into an accountant-ready ledger. A commercial product by Payload.*
+
+> **This repo is the product page.** The paid package ships to you when you buy; it is not open source. Buy links are below.
 
 Paid in USDC or USDT? Come tax season you face a choice: free developer CLI tools, $49–199/yr trader software that doesn't understand invoicing, or $299+/month enterprise accounting suites.
 
 StableLedger is the fourth option: a one-time $49 utility that turns your exchange CSV exports into a clean, accountant-ready ledger. Runs offline — your financial exports never leave your machine.
 
-**What's inside the paid kit**
-- One command normalizes Coinbase, Binance, Kraken, or generic CSVs into a universal ledger: date, type, asset, amount, price, fees, tx id, source
-- `ledger.csv` — hand this directly to your accountant
-- `summary.csv` — per-asset totals plus simplified realized gain/loss (average cost)
-- Case-insensitive header matching with aliases, so export format drift doesn't break it
-- Unknown formats fail loudly instead of silently mis-parsing
-- Sample exports included so you can try it before trusting it with real data
+## Who it's for
+
+Freelancers and small businesses paid in USDC or USDT who need clean records for their accountant at tax time — without cloud accounting software or per-record fees.
+
+## What you receive
+
+The paid package ($49, one-time) includes:
+
+- **One command** that normalizes Coinbase, Binance, Kraken, or generic CSVs into a universal ledger: date, type, asset, amount, price, fees, tx id, source
+- **`ledger.csv`** — hand this directly to your accountant
+- **`summary.csv`** — per-asset totals plus simplified realized gain/loss (average cost)
+- **Case-insensitive header matching with aliases**, so export format drift doesn't break it
+- **Loud failure on unknown formats** instead of silently mis-parsing
+- **Sample exports** so you can try it before trusting it with real data
 
 Setup (2 minutes): install Python 3.8+ (no third-party packages), export your CSV, run `python -m stableledger your_export.csv`, open ledger.csv and summary.csv.
 
-Note: the summary uses simplified average-cost math as a bookkeeping aid — not tax advice. Your accountant makes the filing decisions; StableLedger gives them clean data.
+## What it does NOT include
 
-**Buy** — $49 one-time. Yours forever. No subscriptions, no lock-in.
+- **Not tax advice.** The summary uses simplified average-cost math as a bookkeeping aid. Your accountant makes the filing decisions; StableLedger gives them clean data.
+- It does not connect to exchanges or import anything automatically. You export the CSV; StableLedger normalizes it.
+- It does not file anything. It produces the ledger and summary your accountant works from.
+
+## Buy
+
+**$49 one-time. Yours forever. No subscriptions, no lock-in.**
+
 [Get StableLedger](https://payloadtools.gumroad.com/l/stableledger-tax-csv)
 
 **License** — Single-seat commercial license, perpetual. Full text ships inside the package (LICENSE.txt). Not open source.
 
-**Support** — kylers.partners@gmail.com
+## Support and updates
 
-Sold by Payload. Small software that earns its keep.
+- Support: kylers.partners@gmail.com
+- Sold and supported by Payload. Small software that earns its keep.
 
 ---
 
